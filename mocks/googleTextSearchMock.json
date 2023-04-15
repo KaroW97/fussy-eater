@@ -1,0 +1,1049 @@
+{
+    "html_attributions": [],
+    "next_page_token": "",
+    "results": [
+        {
+            "business_status": "OPERATIONAL",
+            "formatted_address": "Jana Karskiego 91, 91-071 Łódź",
+            "geometry": {
+                "location": {
+                    "lat": 51.78044990000001,
+                    "lng": 19.4467332
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 51.78200217989272,
+                        "lng": 19.44802607989272
+                    },
+                    "southwest": {
+                        "lat": 51.77930252010728,
+                        "lng": 19.44532642010728
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+            "icon_background_color": "#FF9E67",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+            "name": "Akasaka",
+            "opening_hours": {
+                "open_now": true
+            },
+            "photos": [
+                {
+                    "height": 3024,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/102458480840820395092\">Katarzyna Nieborak</a>"
+                    ],
+                    "photo_reference": "AUjq9jnh9Mwerwmt7rAauw1v1LQZwqUUfL87s3v5gVkv6OK5LTGa2c9tvknsXggfh96owuccD_rh-6sjJF811swTPUFYT0saSD-3MYA6l3hRMyvLrTmIhCRgPi4j_obIxtBin1MQtrAd3K_dEkt_zdxLJp4vMrZ8Rl_TaqGMEn26osQpkCqB",
+                    "width": 4032
+                }
+            ],
+            "place_id": "ChIJ7cmmuMjKG0cRNKxxHdvm9NA",
+            "plus_code": {
+                "compound_code": "QCJW+5M Łódź",
+                "global_code": "9F3XQCJW+5M"
+            },
+            "price_level": 2,
+            "rating": 3,
+            "reference": "ChIJ7cmmuMjKG0cRNKxxHdvm9NA",
+            "types": [
+                "restaurant",
+                "food",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 291
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "formatted_address": "Łagiewnicka 92, 90-001 Łódź",
+            "geometry": {
+                "location": {
+                    "lat": 51.7961904,
+                    "lng": 19.4555169
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 51.79753377989272,
+                        "lng": 19.45698172989272
+                    },
+                    "southwest": {
+                        "lat": 51.79483412010728,
+                        "lng": 19.45428207010728
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+            "icon_background_color": "#FF9E67",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+            "name": "Bar Ha-Nam Kuchnia Azjatycka",
+            "opening_hours": {
+                "open_now": true
+            },
+            "photos": [
+                {
+                    "height": 2268,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/111680819833673100588\">A Google User</a>"
+                    ],
+                    "photo_reference": "AUjq9jm1h_NMO81dyVhMJv9z3QK8slVYjzIcTBWe_biZ9WTTCo6-vr704wMyEaaNAC7julpwGn3BjKSRrEs2tt81IJUF_JlNRC8SLQytdEorUnbD_kKXWMAIS4_ivHgngmV0BLoma_n1vEbAMKb0YEPdxxnajDwWD5ksIybhkpVa3SPTUTn6",
+                    "width": 4032
+                }
+            ],
+            "place_id": "ChIJV5zJbu7KG0cRO7rry9ytFjY",
+            "plus_code": {
+                "compound_code": "QFW4+F6 Łódź",
+                "global_code": "9F3XQFW4+F6"
+            },
+            "price_level": 1,
+            "rating": 3.6,
+            "reference": "ChIJV5zJbu7KG0cRO7rry9ytFjY",
+            "types": [
+                "restaurant",
+                "meal_takeaway",
+                "meal_delivery",
+                "food",
+                "bar",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 242
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "formatted_address": "Pomorska 116, 91-403 Łódź",
+            "geometry": {
+                "location": {
+                    "lat": 51.7788791,
+                    "lng": 19.4861495
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 51.78006457989272,
+                        "lng": 19.48745162989272
+                    },
+                    "southwest": {
+                        "lat": 51.77736492010728,
+                        "lng": 19.48475197010728
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+            "icon_background_color": "#FF9E67",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+            "name": "Con Ga Moi Łódź kuchnia orientalna",
+            "opening_hours": {
+                "open_now": true
+            },
+            "photos": [
+                {
+                    "height": 3024,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/117283515325745220320\">Thùy Dương Thùy Dương</a>"
+                    ],
+                    "photo_reference": "AUjq9jmA2EQvQGGCDzLjaqlmMYJbmnZwQ3hgd0q2TCsxxZ02Wc-tnFPjZAV9MNDFjsLarIzwVjzSHRv03VCYgA3K59AzDqpdp5cY0QSTp2HulN6jBz_X4uHjgGQbxyuFFE0kSo18xy4RR6yfA_RqDUrQRGB1frA9Bg1qyAkP5shh99meUTvC",
+                    "width": 4032
+                }
+            ],
+            "place_id": "ChIJOb4q_DzLG0cRd1jsQLOiHgg",
+            "plus_code": {
+                "compound_code": "QFHP+HF Łódź",
+                "global_code": "9F3XQFHP+HF"
+            },
+            "price_level": 1,
+            "rating": 4,
+            "reference": "ChIJOb4q_DzLG0cRd1jsQLOiHgg",
+            "types": [
+                "restaurant",
+                "food",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 512
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "formatted_address": "Piotrkowska 217, 90-451 Łódź",
+            "geometry": {
+                "location": {
+                    "lat": 51.7537989,
+                    "lng": 19.4587878
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 51.75510477989273,
+                        "lng": 19.46018392989272
+                    },
+                    "southwest": {
+                        "lat": 51.75240512010728,
+                        "lng": 19.45748427010728
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+            "icon_background_color": "#FF9E67",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+            "name": "純和食レストランKuroneko",
+            "opening_hours": {
+                "open_now": true
+            },
+            "photos": [
+                {
+                    "height": 3024,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/118356028403458356135\">Krzysztof Konecki</a>"
+                    ],
+                    "photo_reference": "AUjq9jn3qCt5A7TJ7jU_AJCvBEtYX9pEDgxXGEO_4Ag18iReCXh6UfWwxU1J3x0tmyte2-Yow7GUoXY8gAmqcAFWov9etH8p713V6ldZhNK3YyCWn4E6tvfd1IKBe_yzfGRFiSkb3J1S2Ol8qcJ7BlLaFMlmxBJtJQMrDXTgYih2ZhjSWfyI",
+                    "width": 4032
+                }
+            ],
+            "place_id": "ChIJ3cXEodA0GkcRcaf7SZrdzN0",
+            "plus_code": {
+                "compound_code": "QF35+GG Łódź",
+                "global_code": "9F3XQF35+GG"
+            },
+            "price_level": 2,
+            "rating": 4.6,
+            "reference": "ChIJ3cXEodA0GkcRcaf7SZrdzN0",
+            "types": [
+                "restaurant",
+                "food",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 550
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "formatted_address": "płk. Jana Kilińskiego 23, 90-205 Łódź",
+            "geometry": {
+                "location": {
+                    "lat": 51.7759611,
+                    "lng": 19.4620169
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 51.77732042989272,
+                        "lng": 19.46347102989272
+                    },
+                    "southwest": {
+                        "lat": 51.77462077010728,
+                        "lng": 19.46077137010728
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+            "icon_background_color": "#FF9E67",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+            "name": "BAR AZJA NAM LONG",
+            "opening_hours": {
+                "open_now": true
+            },
+            "photos": [
+                {
+                    "height": 3024,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/104061042704826640141\">A Google User</a>"
+                    ],
+                    "photo_reference": "AUjq9jkk-pNsInUhk8lu3e04HRurIE4CWIBcrGVKFQHeoNXhg2RmWfoIsEu1mZOA_c2hZOYe_HBye1pkgKSDyNvrbMnNEwshoIzmbCO7wVGFlP_840XEV4efPd2BEoObfTiRapfqZ1M_wsRA0jGsXkYmnSkVBJbRGM6sndHXuWckXdqTyvdX",
+                    "width": 4032
+                }
+            ],
+            "place_id": "ChIJp7iSwZTLG0cRjfOHclEAKgI",
+            "plus_code": {
+                "compound_code": "QFG6+9R Łódź",
+                "global_code": "9F3XQFG6+9R"
+            },
+            "price_level": 1,
+            "rating": 4.1,
+            "reference": "ChIJp7iSwZTLG0cRjfOHclEAKgI",
+            "types": [
+                "restaurant",
+                "food",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 59
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "formatted_address": "ks. bp. Wincentego Tymienieckiego 25A/Lok.10, 90-350 Łódź",
+            "geometry": {
+                "location": {
+                    "lat": 51.7536339,
+                    "lng": 19.4816632
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 51.75493942989273,
+                        "lng": 19.48304217989272
+                    },
+                    "southwest": {
+                        "lat": 51.75223977010728,
+                        "lng": 19.48034252010728
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+            "icon_background_color": "#FF9E67",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+            "name": "HOT SUSHI&WOK",
+            "opening_hours": {
+                "open_now": true
+            },
+            "photos": [
+                {
+                    "height": 1908,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/107985221841468952835\">Katarzyna Maciaszek</a>"
+                    ],
+                    "photo_reference": "AUjq9jmAkX4WtoOWaucw-qhYoQuXIqfitJHWteIv-hu0vP8zmPtwf_ZREmXJn4PDfv_DKEQSK1NW-7PyMiOUQSG8NRAVGUYsIvQJ4Kvv0P1pyPBdw4lFMc1Rilo4GFbOpwADdujVAHxFQ8oGXkAsV9fd75An8A421nXijtugQ1p7rglVbwT1",
+                    "width": 4032
+                }
+            ],
+            "place_id": "ChIJWTIdlOo1GkcRVfC459ixHDI",
+            "plus_code": {
+                "compound_code": "QF3J+FM Łódź",
+                "global_code": "9F3XQF3J+FM"
+            },
+            "rating": 4.3,
+            "reference": "ChIJWTIdlOo1GkcRVfC459ixHDI",
+            "types": [
+                "restaurant",
+                "food",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 180
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "formatted_address": "Franklina Delano Roosevelta 8, 90-056 Łódź",
+            "geometry": {
+                "location": {
+                    "lat": 51.7610268,
+                    "lng": 19.4600725
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 51.76242782989272,
+                        "lng": 19.46141087989272
+                    },
+                    "southwest": {
+                        "lat": 51.75972817010727,
+                        "lng": 19.45871122010728
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+            "icon_background_color": "#FF9E67",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+            "name": "Shamo",
+            "opening_hours": {
+                "open_now": true
+            },
+            "photos": [
+                {
+                    "height": 4000,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/117531886565805574981\">Michał Kaźmierski</a>"
+                    ],
+                    "photo_reference": "AUjq9jldSaYYoHTBTrVWPvaC8N9EuJHFZtNKmPravKZMcgVVitMN0d0Ync6gRFALoixlF0ja4M4Fy-7GMsDU7WKgJuSJHaRJgVdQHvI0auGzpmZ85MBly3IeoDIXxVUvRYidFj0QPwbYgVuFW3zYJi5nVG3tW3TdUIMd6adnab5oM9jF8UoS",
+                    "width": 3000
+                }
+            ],
+            "place_id": "ChIJ91GrIDA1GkcRtJXfV35Hr0s",
+            "plus_code": {
+                "compound_code": "QF66+C2 Łódź",
+                "global_code": "9F3XQF66+C2"
+            },
+            "price_level": 2,
+            "rating": 4.7,
+            "reference": "ChIJ91GrIDA1GkcRtJXfV35Hr0s",
+            "types": [
+                "restaurant",
+                "food",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 750
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "formatted_address": "Monopolis, Dr. Stefana Kopcińskiego 62, 90-032 Łódź",
+            "geometry": {
+                "location": {
+                    "lat": 51.7628595,
+                    "lng": 19.4852258
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 51.76419477989272,
+                        "lng": 19.48639562989272
+                    },
+                    "southwest": {
+                        "lat": 51.76149512010728,
+                        "lng": 19.48369597010728
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+            "icon_background_color": "#FF9E67",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+            "name": "Sendai sushi & ramen",
+            "opening_hours": {
+                "open_now": true
+            },
+            "photos": [
+                {
+                    "height": 4032,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/108699172668450901484\">Olena Sliusar</a>"
+                    ],
+                    "photo_reference": "AUjq9jngDk7RVpD8WxKOLXoJCM-VBMKtPkL7yCF7WII70NvTKUvpao6YoqVqQzDWxFJ1-6VVgGYpEPagJOK4D8gZdPlQxJWVzJHIkGsfD8e1ShmXWtK7RZIonyhEg4uJdxr-zX6K6pr4-aAtOGWkpo-yJPkY5yMXOZHQJbfCipuXdCLxU6jH",
+                    "width": 3024
+                }
+            ],
+            "place_id": "ChIJjfH4ldA0GkcRGyzCWpI4rhQ",
+            "plus_code": {
+                "compound_code": "QF7P+43 Łódź",
+                "global_code": "9F3XQF7P+43"
+            },
+            "price_level": 2,
+            "rating": 4.5,
+            "reference": "ChIJjfH4ldA0GkcRGyzCWpI4rhQ",
+            "types": [
+                "restaurant",
+                "food",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 994
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "formatted_address": "Wschodnia 37, 90-272 Łódź",
+            "geometry": {
+                "location": {
+                    "lat": 51.77502,
+                    "lng": 19.4576204
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 51.77637887989273,
+                        "lng": 19.45907572989272
+                    },
+                    "southwest": {
+                        "lat": 51.77367922010728,
+                        "lng": 19.45637607010728
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+            "icon_background_color": "#FF9E67",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+            "name": "zaParowani Łódź",
+            "opening_hours": {
+                "open_now": true
+            },
+            "photos": [
+                {
+                    "height": 3024,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/114946337005015433665\">Patrycja Bobek</a>"
+                    ],
+                    "photo_reference": "AUjq9jnjjlWZtsmdaNAG3rE7uwmDRatPNLZfccAVSEJJoVEVrl0QnOqJJTHEubuYctR2bq2036clIuTtiF5v8uAHmx4kwG1b4uLLL9P1xJQN3iI5wOZGeMEVZh_5IBTAQ8qd6o6gY3kK-35IkdGzkvYWt59SEBctWjdGZ0ax9Borj0bGFwXL",
+                    "width": 4032
+                }
+            ],
+            "place_id": "ChIJLYxWXdfKG0cRhTlconOTF2M",
+            "plus_code": {
+                "compound_code": "QFG5+22 Łódź",
+                "global_code": "9F3XQFG5+22"
+            },
+            "price_level": 2,
+            "rating": 4.4,
+            "reference": "ChIJLYxWXdfKG0cRhTlconOTF2M",
+            "types": [
+                "restaurant",
+                "food",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 650
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "formatted_address": "Piotrkowska 123, 90-430 Łódź",
+            "geometry": {
+                "location": {
+                    "lat": 51.7628253,
+                    "lng": 19.4575447
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 51.76395247989272,
+                        "lng": 19.45905447989272
+                    },
+                    "southwest": {
+                        "lat": 51.76125282010728,
+                        "lng": 19.45635482010728
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+            "icon_background_color": "#FF9E67",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+            "name": "Restauracja Koku Sushi Łódź",
+            "opening_hours": {
+                "open_now": true
+            },
+            "photos": [
+                {
+                    "height": 1365,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/104609830098071668525\">A Google User</a>"
+                    ],
+                    "photo_reference": "AUjq9jm2m7lgi4nx-WPSFlsKvdew5RFzgDfD3cg5lGR6zwwYBe_23rknzAa4jAGyNxilVKWyfBNOsil1eO-hD-DcIynbV2iUaTRFZDvGMpPlycQk28GeePXGtux72RceOBlNtimS822X7sZrGFxjkbu9UmOxpl1mVPh5VqU8hxmrySFhPSCx",
+                    "width": 2048
+                }
+            ],
+            "place_id": "ChIJN_lnFdY1GkcR5RN2TXZjyio",
+            "plus_code": {
+                "compound_code": "QF75+42 Łódź",
+                "global_code": "9F3XQF75+42"
+            },
+            "price_level": 2,
+            "rating": 4,
+            "reference": "ChIJN_lnFdY1GkcR5RN2TXZjyio",
+            "types": [
+                "restaurant",
+                "meal_takeaway",
+                "food",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 712
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "formatted_address": "Przędzalniana 124a, 93-286 Łódź",
+            "geometry": {
+                "location": {
+                    "lat": 51.7435205,
+                    "lng": 19.4886072
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 51.74484407989272,
+                        "lng": 19.48974817989272
+                    },
+                    "southwest": {
+                        "lat": 51.74214442010728,
+                        "lng": 19.48704852010728
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+            "icon_background_color": "#FF9E67",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+            "name": "Kucak Górna",
+            "opening_hours": {
+                "open_now": true
+            },
+            "photos": [
+                {
+                    "height": 3096,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/111942511442021274607\">A Google User</a>"
+                    ],
+                    "photo_reference": "AUjq9jkG1KKoCidPd78VoDM7-tN3Vs_7LOuzj8HMLgIXT1TPB0cj5OvGguKeGBCqgtLzFkcu6fPNgWuDwr4AS8Ru1gcvI1yJ4tby2NkaYWK2FEN_gRPSCQwWf1KFhan6y7CkMMVdWtjmwbQuuXHWSzg3cBsE6yY2wlRLRvxLDdpEiyfZcz7f",
+                    "width": 4128
+                }
+            ],
+            "place_id": "ChIJB4jlr1w1GkcRJ8cSGGwC9DU",
+            "plus_code": {
+                "compound_code": "PFVQ+CC Łódź",
+                "global_code": "9F3XPFVQ+CC"
+            },
+            "price_level": 1,
+            "rating": 3.5,
+            "reference": "ChIJB4jlr1w1GkcRJ8cSGGwC9DU",
+            "types": [
+                "restaurant",
+                "food",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 510
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "formatted_address": "Piotrkowska 89, 90-423 Łódź",
+            "geometry": {
+                "location": {
+                    "lat": 51.7661388,
+                    "lng": 19.456118
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 51.76748862989272,
+                        "lng": 19.45746782989272
+                    },
+                    "southwest": {
+                        "lat": 51.76478897010728,
+                        "lng": 19.45476817010728
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+            "icon_background_color": "#FF9E67",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+            "name": "House of Sushi",
+            "opening_hours": {
+                "open_now": true
+            },
+            "photos": [
+                {
+                    "height": 3024,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/117313149537629766195\">Stu Derecha</a>"
+                    ],
+                    "photo_reference": "AUjq9jn1vCgcx63xI0wGLRXkXyi3p52JaQC_gVndHDJybCQW53vT4_IkNPATjrPz0gtI0uOyBHgKn8g1cwkrqGez-JMjOxs4NXPkkChNJPqwE-ws7UHsJlq5biCy8xlKXmUlda9Z-YXN5uNZ81mmwP-Orf51mwG7ezaNBzzRGwJOfHUsv-w9",
+                    "width": 4032
+                }
+            ],
+            "place_id": "ChIJ4bSzZ9XKG0cRwBwq4T1fsrs",
+            "plus_code": {
+                "compound_code": "QF84+FC Łódź",
+                "global_code": "9F3XQF84+FC"
+            },
+            "price_level": 2,
+            "rating": 4.6,
+            "reference": "ChIJ4bSzZ9XKG0cRwBwq4T1fsrs",
+            "types": [
+                "restaurant",
+                "food",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 925
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "formatted_address": "al. Tadeusza Kościuszki 93, 90-432 Łódź",
+            "geometry": {
+                "location": {
+                    "lat": 51.7594664,
+                    "lng": 19.4554067
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 51.76076722989272,
+                        "lng": 19.45684587989272
+                    },
+                    "southwest": {
+                        "lat": 51.75806757010728,
+                        "lng": 19.45414622010728
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+            "icon_background_color": "#FF9E67",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+            "name": "Sushi Smaki",
+            "opening_hours": {
+                "open_now": true
+            },
+            "photos": [
+                {
+                    "height": 3024,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/113547149033492076633\">Paweł Krystian</a>"
+                    ],
+                    "photo_reference": "AUjq9jndd1tqEzQBOIuKdsa9xQGtRVGSpwZSekHQRQ6VPfGstvUosd6GzvD7du4pVPjCfzwVtIXskYTfXtiHDTaj-Ke5PP0WucnedF39ktgpSzM36WqRN4C7_u-keOp7eB8vvxhZhH3vhWme8BjLxgN0H3D3iBJmV54YzAUhLaM2N7r82T4E",
+                    "width": 4032
+                }
+            ],
+            "place_id": "ChIJJSSpi2nNG0cR6zku0c4XUKk",
+            "plus_code": {
+                "compound_code": "QF54+Q5 Łódź",
+                "global_code": "9F3XQF54+Q5"
+            },
+            "rating": 4,
+            "reference": "ChIJJSSpi2nNG0cR6zku0c4XUKk",
+            "types": [
+                "meal_takeaway",
+                "meal_delivery",
+                "restaurant",
+                "food",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 369
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "formatted_address": "Kpt. Franciszka Żwirki 8, 90-450 Łódź",
+            "geometry": {
+                "location": {
+                    "lat": 51.755553,
+                    "lng": 19.4573444
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 51.75688107989272,
+                        "lng": 19.45853257989272
+                    },
+                    "southwest": {
+                        "lat": 51.75418142010728,
+                        "lng": 19.45583292010728
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+            "icon_background_color": "#FF9E67",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+            "name": "Sushi Zielony Chrzan",
+            "opening_hours": {
+                "open_now": true
+            },
+            "photos": [
+                {
+                    "height": 2592,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/105916449812649622163\">Meikel Roszyk</a>"
+                    ],
+                    "photo_reference": "AUjq9jkeWtoH0fTSxMy7O-otsMymBFWiEJ3qQNO6Dp9zQl4dFxFmXBtMW2KbOGDNdqBvTFaHVpTjdYI8zCfpXghSRfeyjwqqTv7NiVr-KAUMnVGW_uwTQWfXguB87igFpTRAxTt0eJNLPCbjkuZpxfTIbZDoY1HYIXCGtLTOLxhTxjjwy2eL",
+                    "width": 5760
+                }
+            ],
+            "place_id": "ChIJOYbCpzU0GkcRAB-iHZFrkBQ",
+            "plus_code": {
+                "compound_code": "QF44+6W Łódź",
+                "global_code": "9F3XQF44+6W"
+            },
+            "price_level": 2,
+            "rating": 4.6,
+            "reference": "ChIJOYbCpzU0GkcRAB-iHZFrkBQ",
+            "types": [
+                "restaurant",
+                "food",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 1000
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "formatted_address": "Stefanowskiego 17, 90-537 Łódź",
+            "geometry": {
+                "location": {
+                    "lat": 51.7518215,
+                    "lng": 19.4528149
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 51.75322492989272,
+                        "lng": 19.45423022989272
+                    },
+                    "southwest": {
+                        "lat": 51.75052527010728,
+                        "lng": 19.45153057010727
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+            "icon_background_color": "#FF9E67",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+            "name": "Tanoshii Sushi and Ramen",
+            "opening_hours": {
+                "open_now": true
+            },
+            "photos": [
+                {
+                    "height": 3000,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/115541711844585850552\">Aleksandra Prochot</a>"
+                    ],
+                    "photo_reference": "AUjq9jnUjyC5fqEje74y9pslIv4-ToIPSzf6BZ3Cq7kihR_CV6ibGlr4HKnWtlU_9KvF8wG3H-1Ipt6UNM4J62OvtFxycFTTMPIowD-lm0JtYcjkpNSuIyepyAZF48w0_IcEN2Clj_b1LDGqQ7WQIigMslqNclejHllRGBzn0sr376KQ7pvq",
+                    "width": 4000
+                }
+            ],
+            "place_id": "ChIJoeqmZGA1GkcRHt-QP2tBxbk",
+            "plus_code": {
+                "compound_code": "QF23+P4 Łódź",
+                "global_code": "9F3XQF23+P4"
+            },
+            "rating": 4.8,
+            "reference": "ChIJoeqmZGA1GkcRHt-QP2tBxbk",
+            "types": [
+                "restaurant",
+                "food",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 336
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "formatted_address": "Pstrągowa 49A, 91-986 Łódź",
+            "geometry": {
+                "location": {
+                    "lat": 51.8210603,
+                    "lng": 19.4408061
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 51.82239172989271,
+                        "lng": 19.44223732989272
+                    },
+                    "southwest": {
+                        "lat": 51.81969207010727,
+                        "lng": 19.43953767010728
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+            "icon_background_color": "#FF9E67",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+            "name": "Kucak Bałuty",
+            "opening_hours": {
+                "open_now": true
+            },
+            "photos": [
+                {
+                    "height": 2459,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/107130657289216081937\">A Google User</a>"
+                    ],
+                    "photo_reference": "AUjq9jnCt4veFZJMBCwm1O0JTuG-uZCtyFzSVQvVnJUvgQZgR8bpLAIuTPf2YtHv4I17VJsFL6BqW-HeOsxOjXUevMr-rpSlJa9fsMZ3xQlIwCi5-r1FNmFlDA-wxjKvB5gKb_uIcRbWc0igBuUn6GCYZjAoJD6HRpw3m2GjWyLk2DTXQhT3",
+                    "width": 3179
+                }
+            ],
+            "place_id": "ChIJlbPSQXrKG0cRLSXp0Y7Ux6k",
+            "plus_code": {
+                "compound_code": "RCCR+C8 Łódź",
+                "global_code": "9F3XRCCR+C8"
+            },
+            "price_level": 1,
+            "rating": 3.5,
+            "reference": "ChIJlbPSQXrKG0cRLSXp0Y7Ux6k",
+            "types": [
+                "restaurant",
+                "food",
+                "bar",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 995
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "formatted_address": "Piotrkowska 80, 90-102 Łódź",
+            "geometry": {
+                "location": {
+                    "lat": 51.767484,
+                    "lng": 19.4569794
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 51.76872382989273,
+                        "lng": 19.45821497989272
+                    },
+                    "southwest": {
+                        "lat": 51.76602417010728,
+                        "lng": 19.45551532010728
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+            "icon_background_color": "#FF9E67",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+            "name": "Pho by Lilly Tran",
+            "opening_hours": {
+                "open_now": true
+            },
+            "photos": [
+                {
+                    "height": 3024,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/106135359468341663810\">A Google User</a>"
+                    ],
+                    "photo_reference": "AUjq9jlfoOlR_uTnXdmCyQkBCWwGysRd9fCDFKQV9QwSykpcVr2LaD9Pr-q4xPL_sdYIXEFZXAO9dyfyMVOPow6R3-ET3NHQXEeP4oIMNAU9oabY7SG_GEPljw0Px6XBePQvTG-jrabwIRV3dR4aGS4CymirfUz3OMn0cy_kk-R-LtHsQVLt",
+                    "width": 4032
+                }
+            ],
+            "place_id": "ChIJPft-s8vLG0cR1SOJ6i7rKIo",
+            "plus_code": {
+                "compound_code": "QF84+XQ Łódź",
+                "global_code": "9F3XQF84+XQ"
+            },
+            "price_level": 2,
+            "rating": 4.4,
+            "reference": "ChIJPft-s8vLG0cR1SOJ6i7rKIo",
+            "types": [
+                "restaurant",
+                "food",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 572
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "formatted_address": "Bratysławska 5, 94-032 Łódź",
+            "geometry": {
+                "location": {
+                    "lat": 51.7499706,
+                    "lng": 19.4231863
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 51.75130527989272,
+                        "lng": 19.42458662989272
+                    },
+                    "southwest": {
+                        "lat": 51.74860562010728,
+                        "lng": 19.42188697010728
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+            "icon_background_color": "#FF9E67",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+            "name": "Sajgon. Bar orientalny",
+            "opening_hours": {
+                "open_now": true
+            },
+            "photos": [
+                {
+                    "height": 2988,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/110238297827840529737\">Jarek S</a>"
+                    ],
+                    "photo_reference": "AUjq9jmYckRRN5HFe6FzyKTb34Bkc-AxlcNI9IlzdkyRomjpklYEoAJI6ch198Z2Nsdg0jPR_EoH52EOV0pkw1Rx11fgElZ3VaNnksOPHzb-JJPmZKAQnnKndOycKSoVGmXW6_ryNCQImZkE-05A_iSsY5dhJLoMZ3KgQN2BUriOcK-fGNh5",
+                    "width": 3984
+                }
+            ],
+            "place_id": "ChIJnWzYjT01GkcR07Bpip5tGBs",
+            "plus_code": {
+                "compound_code": "PCXF+X7 Łódź",
+                "global_code": "9F3XPCXF+X7"
+            },
+            "rating": 3.6,
+            "reference": "ChIJnWzYjT01GkcR07Bpip5tGBs",
+            "types": [
+                "restaurant",
+                "food",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 264
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "formatted_address": "Piotrkowska 295, 93-004 Łódź",
+            "geometry": {
+                "location": {
+                    "lat": 51.7448078,
+                    "lng": 19.461495
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 51.74616682989272,
+                        "lng": 19.46295422989272
+                    },
+                    "southwest": {
+                        "lat": 51.74346717010727,
+                        "lng": 19.46025457010728
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+            "icon_background_color": "#FF9E67",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+            "name": "Asiart Restaurant",
+            "opening_hours": {
+                "open_now": true
+            },
+            "photos": [
+                {
+                    "height": 1536,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/101935973211495656180\">A Google User</a>"
+                    ],
+                    "photo_reference": "AUjq9jlknks23CdWDih7Z7Dj7BKVkX6Mvqk3ag2TsoLXzDOy2sJZ-LMRG6vcJ81QiJtCOgGupw3x_ilqVX8Bp4YzfQ3Yfw0PqSFxgQ7o1Bf55zwT7W-r_cQynyZkkA1wH6FOA6eqWoS85NvjEBFl3tf7NOGu6lH8XrnQiizbHJnXn_Twa2Z_",
+                    "width": 2048
+                }
+            ],
+            "place_id": "ChIJ02Pz0Wc1GkcR-uJvZQmLKuc",
+            "plus_code": {
+                "compound_code": "PFV6+WH Łódź",
+                "global_code": "9F3XPFV6+WH"
+            },
+            "rating": 4.3,
+            "reference": "ChIJ02Pz0Wc1GkcR-uJvZQmLKuc",
+            "types": [
+                "restaurant",
+                "food",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 143
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "formatted_address": "Piotrkowska 59, 90-001 Łódź",
+            "geometry": {
+                "location": {
+                    "lat": 51.76916380000001,
+                    "lng": 19.4562216
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 51.77031812989271,
+                        "lng": 19.45769947989272
+                    },
+                    "southwest": {
+                        "lat": 51.76761847010727,
+                        "lng": 19.45499982010728
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+            "icon_background_color": "#FF9E67",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+            "name": "Bobby Burger",
+            "opening_hours": {
+                "open_now": true
+            },
+            "photos": [
+                {
+                    "height": 1152,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/110326783039281493438\">Diogo Sales</a>"
+                    ],
+                    "photo_reference": "AUjq9jk8qi4ZHgaf15R4qfBgxYuBOi3EfEpL09bKyasxfaK0kSi4prLWlVXQTBGLpPA5CxJUgoXlZPQTcnAyyWNBI_sXiJjEjQBsATX3dBZN3G8TgZWPuYgDJ3D74qXieeXCOs03LCLcPdmzK5V5Pe-SmdtHaAu9wxumZ4cKwZiSHah_1Ypk",
+                    "width": 2048
+                }
+            ],
+            "place_id": "ChIJtWiYydXKG0cRRFWezhvB7yI",
+            "plus_code": {
+                "compound_code": "QF94+MF Łódź",
+                "global_code": "9F3XQF94+MF"
+            },
+            "price_level": 2,
+            "rating": 4.2,
+            "reference": "ChIJtWiYydXKG0cRRFWezhvB7yI",
+            "types": [
+                "restaurant",
+                "food",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 2504
+        }
+    ],
+    "status": "OK"
+}

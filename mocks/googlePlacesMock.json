@@ -1,0 +1,1063 @@
+{
+  "html_attributions": [],
+  "next_page_token": "",
+  "results": [
+      {
+          "business_status": "OPERATIONAL",
+          "geometry": {
+              "location": {
+                  "lat": 51.7784329,
+                  "lng": 19.4485635
+              },
+              "viewport": {
+                  "northeast": {
+                      "lat": 51.7797993802915,
+                      "lng": 19.4503404802915
+                  },
+                  "southwest": {
+                      "lat": 51.7771014197085,
+                      "lng": 19.4476425197085
+                  }
+              }
+          },
+          "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/lodging-71.png",
+          "icon_background_color": "#909CE1",
+          "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/hotel_pinlet",
+          "name": "Vienna House Andel`s Łódź",
+          "opening_hours": {
+              "open_now": true
+          },
+          "photos": [
+              {
+                  "height": 1080,
+                  "html_attributions": [
+                      "<a href=\"https://maps.google.com/maps/contrib/104487525721843144505\">Hotel Vienna House Andel&#39;s Łódź</a>"
+                  ],
+                  "photo_reference": "AUjq9jlip5t9T78LQvwGwu8WnToOl0hnhET4jCnQViUIeqIcpO6O11Wt0ggs1VsWtmHLnmqgttiaiP48lRRSWUJkYoAVW-jlyZ18rw6dStjXL-moFykuwxrw7K1xZNaKo2mIi86pTEFFqVNae5aLV4GKBVPwpCDth1Cz6AT3gAWDWxLpxNR7",
+                  "width": 1080
+              }
+          ],
+          "place_id": "ChIJbRcRw9I0GkcRqYK4Y1n3380",
+          "plus_code": {
+              "compound_code": "QCHX+9C Łódź, Polska",
+              "global_code": "9F3XQCHX+9C"
+          },
+          "rating": 4.7,
+          "reference": "ChIJbRcRw9I0GkcRqYK4Y1n3380",
+          "scope": "GOOGLE",
+          "types": [
+              "parking",
+              "spa",
+              "bar",
+              "lodging",
+              "restaurant",
+              "food",
+              "point_of_interest",
+              "establishment"
+          ],
+          "user_ratings_total": 4945,
+          "vicinity": "Ogrodowa 17, Łódź"
+      },
+      {
+          "business_status": "OPERATIONAL",
+          "geometry": {
+              "location": {
+                  "lat": 51.75748439999999,
+                  "lng": 19.4492473
+              },
+              "viewport": {
+                  "northeast": {
+                      "lat": 51.7587037802915,
+                      "lng": 19.4507079802915
+                  },
+                  "southwest": {
+                      "lat": 51.7560058197085,
+                      "lng": 19.4480100197085
+                  }
+              }
+          },
+          "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/lodging-71.png",
+          "icon_background_color": "#909CE1",
+          "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/hotel_pinlet",
+          "name": "Qubus Hotel Łódź",
+          "opening_hours": {
+              "open_now": true
+          },
+          "photos": [
+              {
+                  "height": 1080,
+                  "html_attributions": [
+                      "<a href=\"https://maps.google.com/maps/contrib/106892384085205091474\">Qubus Hotel Łódź</a>"
+                  ],
+                  "photo_reference": "AUjq9jl_qXJ6ysQ1yfysSboLEVzJSagReKXIcy-2JpJYXGKnADQvoHJQ-FYf6nZ16_2uFIIMPifEmNKO1EcLbrIge2y3d2gbP32WWVl-i9tGRt4b79NBc0l2KGcUQgw4WOkqfXjW9_6g2rvLgRF_bI_m5rEwE1EOvWpW45Gxp7GV3f_ItAj8",
+                  "width": 1543
+              }
+          ],
+          "place_id": "ChIJZ9i66TU7FkcRvpJUC-YIkaU",
+          "plus_code": {
+              "compound_code": "QC4X+XM Łódź, Polska",
+              "global_code": "9F3XQC4X+XM"
+          },
+          "rating": 4.5,
+          "reference": "ChIJZ9i66TU7FkcRvpJUC-YIkaU",
+          "scope": "GOOGLE",
+          "types": [
+              "lodging",
+              "restaurant",
+              "food",
+              "point_of_interest",
+              "establishment"
+          ],
+          "user_ratings_total": 1149,
+          "vicinity": "aleja Adama Mickiewicza 7, Łódź"
+      },
+      {
+          "business_status": "OPERATIONAL",
+          "geometry": {
+              "location": {
+                  "lat": 51.7590677,
+                  "lng": 19.44341240000001
+              },
+              "viewport": {
+                  "northeast": {
+                      "lat": 51.76045678029149,
+                      "lng": 19.4448936302915
+                  },
+                  "southwest": {
+                      "lat": 51.75775881970849,
+                      "lng": 19.4421956697085
+                  }
+              }
+          },
+          "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/lodging-71.png",
+          "icon_background_color": "#909CE1",
+          "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/hotel_pinlet",
+          "name": "Hotel Focus Łódź",
+          "photos": [
+              {
+                  "height": 541,
+                  "html_attributions": [
+                      "<a href=\"https://maps.google.com/maps/contrib/107704455531602182897\">Hotel Focus Łódź</a>"
+                  ],
+                  "photo_reference": "AUjq9jlL4a_fHcpSBa9vtSQU7l5RClVN6zqUkAJH2kg5oGZBtCCO4f9sYYpVd8IhAe-XV_tORM5epvElZVx6GiV_oqEkrCXzn0y0PXasEV2Bd-VgscTxr5MYkB_y8M7mnk2v989STptL6Sdqz0ebCGX1o7ctAzn4gc85cP3UghV_PbPNagE-",
+                  "width": 721
+              }
+          ],
+          "place_id": "ChIJHbHKlC41GkcRd257u17-Wic",
+          "plus_code": {
+              "compound_code": "QC5V+J9 Łódź, Polska",
+              "global_code": "9F3XQC5V+J9"
+          },
+          "rating": 4.2,
+          "reference": "ChIJHbHKlC41GkcRd257u17-Wic",
+          "scope": "GOOGLE",
+          "types": [
+              "lodging",
+              "restaurant",
+              "food",
+              "point_of_interest",
+              "establishment"
+          ],
+          "user_ratings_total": 2284,
+          "vicinity": "Łąkowa 23, Łódź"
+      },
+      {
+          "business_status": "OPERATIONAL",
+          "geometry": {
+              "location": {
+                  "lat": 51.7578878,
+                  "lng": 19.4373032
+              },
+              "viewport": {
+                  "northeast": {
+                      "lat": 51.75929283029149,
+                      "lng": 19.4386143302915
+                  },
+                  "southwest": {
+                      "lat": 51.7565948697085,
+                      "lng": 19.4359163697085
+                  }
+              }
+          },
+          "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/lodging-71.png",
+          "icon_background_color": "#909CE1",
+          "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/hotel_pinlet",
+          "name": "Hotel Tobaco",
+          "opening_hours": {
+              "open_now": true
+          },
+          "photos": [
+              {
+                  "height": 1314,
+                  "html_attributions": [
+                      "<a href=\"https://maps.google.com/maps/contrib/105313419263274714584\">Hotel Tobaco</a>"
+                  ],
+                  "photo_reference": "AUjq9jl4RgtgZ9qqbIg2YM28GUEvfC0JM4j60677dQ9sDsuXadulubDyv5pJn-JR-XeBH5AwoP-8QcxZRtDPLRR11Hi8b9vdC_TOGZU0pOUE3NPd-vSdR3fmBQdWaKXNWnBGFfNGEYiIsk1567Re-Gp1HfQC5SDEntSdJs19Sz4wBffxCTxO",
+                  "width": 2048
+              }
+          ],
+          "place_id": "ChIJq9ExkC81GkcR3-CBknU1ARM",
+          "plus_code": {
+              "compound_code": "QC5P+5W Łódź, Polska",
+              "global_code": "9F3XQC5P+5W"
+          },
+          "rating": 4.4,
+          "reference": "ChIJq9ExkC81GkcR3-CBknU1ARM",
+          "scope": "GOOGLE",
+          "types": [
+              "lodging",
+              "restaurant",
+              "food",
+              "point_of_interest",
+              "establishment"
+          ],
+          "user_ratings_total": 2084,
+          "vicinity": "Mikołaja Kopernika 64, Łódź"
+      },
+      {
+          "business_status": "OPERATIONAL",
+          "geometry": {
+              "location": {
+                  "lat": 51.7720518,
+                  "lng": 19.428408
+              },
+              "viewport": {
+                  "northeast": {
+                      "lat": 51.77332318029151,
+                      "lng": 19.4296614302915
+                  },
+                  "southwest": {
+                      "lat": 51.77062521970851,
+                      "lng": 19.4269634697085
+                  }
+              }
+          },
+          "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/lodging-71.png",
+          "icon_background_color": "#909CE1",
+          "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/hotel_pinlet",
+          "name": "Hotel Borowiecki",
+          "photos": [
+              {
+                  "height": 3754,
+                  "html_attributions": [
+                      "<a href=\"https://maps.google.com/maps/contrib/108234820096120279300\">Hotel Borowiecki</a>"
+                  ],
+                  "photo_reference": "AUjq9jlymvt2_adZvf8hMels7NunkNoOvwM23AzBSuhGNo7vsJMENZDExUVu0ToQpfH93GPH1PoBnucO3zrnNu5bvSRvm3CX8qktSBxupL1pEqX0rwMz8dFN8zI61vgCiwJBdfPkTOx75-AmFrql7DhIHbw69qd3-X8sSJr2Txlfc70XtGFT",
+                  "width": 5631
+              }
+          ],
+          "place_id": "ChIJsb3xg8rKG0cR7sOXhDu5suA",
+          "plus_code": {
+              "compound_code": "QCCH+R9 Łódź, Polska",
+              "global_code": "9F3XQCCH+R9"
+          },
+          "rating": 4.3,
+          "reference": "ChIJsb3xg8rKG0cR7sOXhDu5suA",
+          "scope": "GOOGLE",
+          "types": [
+              "lodging",
+              "restaurant",
+              "food",
+              "point_of_interest",
+              "establishment"
+          ],
+          "user_ratings_total": 945,
+          "vicinity": "Marcina Kasprzaka 7/9, Łódź"
+      },
+      {
+          "business_status": "OPERATIONAL",
+          "geometry": {
+              "location": {
+                  "lat": 51.76472090000001,
+                  "lng": 19.4410439
+              },
+              "viewport": {
+                  "northeast": {
+                      "lat": 51.7660076302915,
+                      "lng": 19.4426652802915
+                  },
+                  "southwest": {
+                      "lat": 51.7633096697085,
+                      "lng": 19.4399673197085
+                  }
+              }
+          },
+          "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/lodging-71.png",
+          "icon_background_color": "#909CE1",
+          "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/hotel_pinlet",
+          "name": "Hotel Mazowiecki Łódź",
+          "opening_hours": {
+              "open_now": true
+          },
+          "photos": [
+              {
+                  "height": 2376,
+                  "html_attributions": [
+                      "<a href=\"https://maps.google.com/maps/contrib/102690460522375059778\">Hotel Mazowiecki</a>"
+                  ],
+                  "photo_reference": "AUjq9jkqn8IVagpI6jZai_iAYCkZBt_CDAnAWdHGx8VUzQmBAWPsaaxURRmQ_FDkPW_GjB2C-tmfuzlKinUXDO3H9LsKnCyhSLAxXRHmVb7AdzIW0w-kxoi9SM-8iKAuAF72Hl_0wtmmciPXx62tqLeAIqQx6loKIu6NmK3hpCYh0NVwXX0",
+                  "width": 3564
+              }
+          ],
+          "place_id": "ChIJ_bxyni01GkcRtKg3UUJcAOA",
+          "plus_code": {
+              "compound_code": "QC7R+VC Łódź, Polska",
+              "global_code": "9F3XQC7R+VC"
+          },
+          "rating": 3.7,
+          "reference": "ChIJ_bxyni01GkcRtKg3UUJcAOA",
+          "scope": "GOOGLE",
+          "types": [
+              "lodging",
+              "restaurant",
+              "food",
+              "point_of_interest",
+              "establishment"
+          ],
+          "user_ratings_total": 1276,
+          "vicinity": "28 Pułku Strzelców Kaniowskich 53/57, Łódź"
+      },
+      {
+          "business_status": "OPERATIONAL",
+          "geometry": {
+              "location": {
+                  "lat": 51.7629904,
+                  "lng": 19.4582789
+              },
+              "viewport": {
+                  "northeast": {
+                      "lat": 51.7640167802915,
+                      "lng": 19.4596294802915
+                  },
+                  "southwest": {
+                      "lat": 51.7613188197085,
+                      "lng": 19.4569315197085
+                  }
+              }
+          },
+          "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/lodging-71.png",
+          "icon_background_color": "#909CE1",
+          "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/hotel_pinlet",
+          "name": "Hotel Stare Kino Łódź",
+          "opening_hours": {
+              "open_now": true
+          },
+          "photos": [
+              {
+                  "height": 1536,
+                  "html_attributions": [
+                      "<a href=\"https://maps.google.com/maps/contrib/101844059412216156981\">Hotel Stare Kino Łódź</a>"
+                  ],
+                  "photo_reference": "AUjq9jluxfHrl8atkXHdWoDHl4pwe2wbqduYDEV8gLUCr0j34jx8sO63UIZlWQJhhFIdCqEedS9-ERQhmTYkhBtu6xtYyk8EZnuWnsNtZATI3In71CHEem0Mnm7-LpWHNgvNyIcSwqd3onOdtA6M0wTo7gM5bpO0LowuWfLDKqiWE2whd-YX",
+                  "width": 2048
+              }
+          ],
+          "place_id": "ChIJAYKEG9U0GkcRvBCEPVUffSs",
+          "plus_code": {
+              "compound_code": "QF75+58 Łódź, Polska",
+              "global_code": "9F3XQF75+58"
+          },
+          "rating": 4.6,
+          "reference": "ChIJAYKEG9U0GkcRvBCEPVUffSs",
+          "scope": "GOOGLE",
+          "types": [
+              "movie_theater",
+              "lodging",
+              "restaurant",
+              "food",
+              "point_of_interest",
+              "establishment"
+          ],
+          "user_ratings_total": 1443,
+          "vicinity": "Piotrkowska 120, Łódź"
+      },
+      {
+          "business_status": "OPERATIONAL",
+          "geometry": {
+              "location": {
+                  "lat": 51.77307380000001,
+                  "lng": 19.4553857
+              },
+              "viewport": {
+                  "northeast": {
+                      "lat": 51.7742296802915,
+                      "lng": 19.4568379302915
+                  },
+                  "southwest": {
+                      "lat": 51.7715317197085,
+                      "lng": 19.4541399697085
+                  }
+              }
+          },
+          "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+          "icon_background_color": "#FF9E67",
+          "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+          "name": "Presto",
+          "opening_hours": {
+              "open_now": true
+          },
+          "photos": [
+              {
+                  "height": 3840,
+                  "html_attributions": [
+                      "<a href=\"https://maps.google.com/maps/contrib/102343495853867725573\">Przemek Biel</a>"
+                  ],
+                  "photo_reference": "AUjq9jl6Z4k82Ya9j4AeA8ZYXjB9h-ODn933jxhNOgbE2CDwOvx1NtXdjHURyXMxgEaV3mX_l4dGkH9tVniHRVQ_WiHX7Svn64-P5MnXHWo5sUKHTlHSME0XgEjNDfsmt3sewO5AXco71VCrBIMCyy1mqc7h20Hr6v9KZD7tQiv_G3p9pykl",
+                  "width": 2160
+              }
+          ],
+          "place_id": "ChIJZ9CF3NbKG0cRaOFVthQY0VQ",
+          "plus_code": {
+              "compound_code": "QFF4+65 Łódź, Polska",
+              "global_code": "9F3XQFF4+65"
+          },
+          "price_level": 2,
+          "rating": 4.2,
+          "reference": "ChIJZ9CF3NbKG0cRaOFVthQY0VQ",
+          "scope": "GOOGLE",
+          "types": [
+              "meal_delivery",
+              "meal_takeaway",
+              "restaurant",
+              "food",
+              "point_of_interest",
+              "establishment"
+          ],
+          "user_ratings_total": 1172,
+          "vicinity": "Piotrkowska 27, Łódź"
+      },
+      {
+          "business_status": "OPERATIONAL",
+          "geometry": {
+              "location": {
+                  "lat": 51.76130149999999,
+                  "lng": 19.4574855
+              },
+              "viewport": {
+                  "northeast": {
+                      "lat": 51.76264658029151,
+                      "lng": 19.45883458029151
+                  },
+                  "southwest": {
+                      "lat": 51.75994861970851,
+                      "lng": 19.4561366197085
+                  }
+              }
+          },
+          "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+          "icon_background_color": "#FF9E67",
+          "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+          "name": "Cafe Cykada",
+          "opening_hours": {
+              "open_now": true
+          },
+          "photos": [
+              {
+                  "height": 365,
+                  "html_attributions": [
+                      "<a href=\"https://maps.google.com/maps/contrib/100552003567165784688\">Cafe Cykada</a>"
+                  ],
+                  "photo_reference": "AUjq9jkH55pTbCw07Srvzd9No_cDf1AZ_1QCxcI4BEQ-TlTtiNoIXmJ_xB70cPcsnQuh-ZTkkVbeD4e5m8TeaeNUNxUCaOd9F2ev10-wb5AhmV5WcMUxQZR0lIJCGI8AvMbvamvYtjPHk2Q92DCwae7rkkHfX8KDcWZ1JY6ZloSBBzeZf5XA",
+                  "width": 800
+              }
+          ],
+          "place_id": "ChIJKW8KrdU0GkcR7eOkkdHP5so",
+          "plus_code": {
+              "compound_code": "QF64+GX Łódź, Polska",
+              "global_code": "9F3XQF64+GX"
+          },
+          "price_level": 1,
+          "rating": 4.8,
+          "reference": "ChIJKW8KrdU0GkcR7eOkkdHP5so",
+          "scope": "GOOGLE",
+          "types": [
+              "restaurant",
+              "food",
+              "point_of_interest",
+              "establishment"
+          ],
+          "user_ratings_total": 187,
+          "vicinity": "Piotrkowska 137/139, Łódź"
+      },
+      {
+          "business_status": "OPERATIONAL",
+          "geometry": {
+              "location": {
+                  "lat": 51.7661388,
+                  "lng": 19.456118
+              },
+              "viewport": {
+                  "northeast": {
+                      "lat": 51.7674877802915,
+                      "lng": 19.4574669802915
+                  },
+                  "southwest": {
+                      "lat": 51.7647898197085,
+                      "lng": 19.4547690197085
+                  }
+              }
+          },
+          "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+          "icon_background_color": "#FF9E67",
+          "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+          "name": "House of Sushi",
+          "opening_hours": {
+              "open_now": true
+          },
+          "photos": [
+              {
+                  "height": 2592,
+                  "html_attributions": [
+                      "<a href=\"https://maps.google.com/maps/contrib/118050156265603674765\">House of Sushi</a>"
+                  ],
+                  "photo_reference": "AUjq9jkgHgB85TLFb61JM_O6mYJd2e6SCbAMGji4jppekyv00emwvsX8xHOsB6xtY1bqKOvddQgEgvM8-bjZ4QHdE8bk_CrDHyeSv_E4_QcO8bwIaLB1cu7slMj76KdEtrcZVRS0rOviA0-5qbxjxSCuq-rTxqsSkTjPDjFA41ksyi0uzEfk",
+                  "width": 3872
+              }
+          ],
+          "place_id": "ChIJ4bSzZ9XKG0cRwBwq4T1fsrs",
+          "plus_code": {
+              "compound_code": "QF84+FC Łódź, Polska",
+              "global_code": "9F3XQF84+FC"
+          },
+          "price_level": 2,
+          "rating": 4.6,
+          "reference": "ChIJ4bSzZ9XKG0cRwBwq4T1fsrs",
+          "scope": "GOOGLE",
+          "types": [
+              "restaurant",
+              "food",
+              "point_of_interest",
+              "establishment"
+          ],
+          "user_ratings_total": 923,
+          "vicinity": "Piotrkowska 89, Łódź"
+      },
+      {
+          "business_status": "OPERATIONAL",
+          "geometry": {
+              "location": {
+                  "lat": 51.7650294,
+                  "lng": 19.457489
+              },
+              "viewport": {
+                  "northeast": {
+                      "lat": 51.7666310802915,
+                      "lng": 19.4586745302915
+                  },
+                  "southwest": {
+                      "lat": 51.7639331197085,
+                      "lng": 19.4559765697085
+                  }
+              }
+          },
+          "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/bar-71.png",
+          "icon_background_color": "#FF9E67",
+          "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/bar_pinlet",
+          "name": "Łódź Kaliska Klub",
+          "opening_hours": {
+              "open_now": false
+          },
+          "photos": [
+              {
+                  "height": 3201,
+                  "html_attributions": [
+                      "<a href=\"https://maps.google.com/maps/contrib/105438656155304690420\">Piotr Kmieciak</a>"
+                  ],
+                  "photo_reference": "AUjq9jkJ8HM--0AnoLexIJIBqFspwd_mRprf6OQLwLIn-0zJlLX5hUc_XkVpIt4j7hWvNIULnFGDZl73h-Ao7QyKHq1_cZH6sMDNbAS-csg2oUby5VinbX3P2ibQvtald0ejDfOxRLoBi8tKusteyiDuLeaW09ts0nmDDipIIyxI7qJnL8MV",
+                  "width": 4834
+              }
+          ],
+          "place_id": "ChIJGQPnrSrLG0cROWnU8G3BQuM",
+          "plus_code": {
+              "compound_code": "QF84+2X Łódź, Polska",
+              "global_code": "9F3XQF84+2X"
+          },
+          "price_level": 2,
+          "rating": 4.2,
+          "reference": "ChIJGQPnrSrLG0cROWnU8G3BQuM",
+          "scope": "GOOGLE",
+          "types": [
+              "bar",
+              "restaurant",
+              "food",
+              "point_of_interest",
+              "establishment"
+          ],
+          "user_ratings_total": 2621,
+          "vicinity": "Piotrkowska 102, Łódź"
+      },
+      {
+          "business_status": "OPERATIONAL",
+          "geometry": {
+              "location": {
+                  "lat": 51.7914933,
+                  "lng": 19.4491286
+              },
+              "viewport": {
+                  "northeast": {
+                      "lat": 51.7927282302915,
+                      "lng": 19.4505048302915
+                  },
+                  "southwest": {
+                      "lat": 51.7900302697085,
+                      "lng": 19.4478068697085
+                  }
+              }
+          },
+          "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+          "icon_background_color": "#4B96F3",
+          "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shopping_pinlet",
+          "name": "ABC Factory | Galeria handlowa | Centrum usługowe",
+          "opening_hours": {
+              "open_now": true
+          },
+          "photos": [
+              {
+                  "height": 608,
+                  "html_attributions": [
+                      "<a href=\"https://maps.google.com/maps/contrib/102210322093723489223\">ABC Factory | Galeria handlowa | Centrum usługowe</a>"
+                  ],
+                  "photo_reference": "AUjq9jkJZAaop4W6g_7oEMlxYVn4fHBAo-EG97XjUTRnk6yYAsWBThihGvqisTOl7BHd7YHe0r25JvdsY3Q_8eJvl0nrUWWmwBKmrMN-vZHh94i0Z4UQtjYeeXQLnCgXjJK-2wvjzKl0CDPGZf9Pos4pX5JzABhPITJ9H-lGnHGUoyj3IUBB",
+                  "width": 1080
+              }
+          ],
+          "place_id": "ChIJ4eCww-vKG0cRMeZVT3YTElI",
+          "plus_code": {
+              "compound_code": "QCRX+HM Łódź, Polska",
+              "global_code": "9F3XQCRX+HM"
+          },
+          "rating": 4.1,
+          "reference": "ChIJ4eCww-vKG0cRMeZVT3YTElI",
+          "scope": "GOOGLE",
+          "types": [
+              "shopping_mall",
+              "cafe",
+              "hair_care",
+              "bar",
+              "clothing_store",
+              "health",
+              "store",
+              "restaurant",
+              "food",
+              "point_of_interest",
+              "establishment"
+          ],
+          "user_ratings_total": 545,
+          "vicinity": "Zgierska 69, Łódź"
+      },
+      {
+          "business_status": "OPERATIONAL",
+          "geometry": {
+              "location": {
+                  "lat": 51.7601872,
+                  "lng": 19.4579588
+              },
+              "viewport": {
+                  "northeast": {
+                      "lat": 51.76155023029149,
+                      "lng": 19.4594864802915
+                  },
+                  "southwest": {
+                      "lat": 51.75885226970849,
+                      "lng": 19.4567885197085
+                  }
+              }
+          },
+          "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+          "icon_background_color": "#FF9E67",
+          "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+          "name": "In Centro",
+          "opening_hours": {
+              "open_now": true
+          },
+          "photos": [
+              {
+                  "height": 3024,
+                  "html_attributions": [
+                      "<a href=\"https://maps.google.com/maps/contrib/100747288356657446120\">Maciej Dombaj</a>"
+                  ],
+                  "photo_reference": "AUjq9jlznDupXorW1SOgtTUdYN6dIRyxOgMbP9Iko8wczo89Uzt1LQzguFnZ41FbmTTeGTnxgIxfbBc8etnSP9WwX1_tFs6ybnKyqvpQXSF1NSjdImkFLsMxu4IJ5nFEs7hl7A2ZVvXUITpXpErJiTatiEGa0pkhJI_3fK5gzLMO6nyPCwcT",
+                  "width": 4032
+              }
+          ],
+          "place_id": "ChIJr87oOtQ0GkcRzKebMmC2F3Y",
+          "plus_code": {
+              "compound_code": "QF65+35 Łódź, Polska",
+              "global_code": "9F3XQF65+35"
+          },
+          "price_level": 1,
+          "rating": 4.2,
+          "reference": "ChIJr87oOtQ0GkcRzKebMmC2F3Y",
+          "scope": "GOOGLE",
+          "types": [
+              "meal_takeaway",
+              "restaurant",
+              "food",
+              "point_of_interest",
+              "establishment"
+          ],
+          "user_ratings_total": 1881,
+          "vicinity": "Piotrkowska 153, Łódź"
+      },
+      {
+          "business_status": "OPERATIONAL",
+          "geometry": {
+              "location": {
+                  "lat": 51.7714673,
+                  "lng": 19.4457622
+              },
+              "viewport": {
+                  "northeast": {
+                      "lat": 51.7727988802915,
+                      "lng": 19.4469958802915
+                  },
+                  "southwest": {
+                      "lat": 51.7701009197085,
+                      "lng": 19.4442979197085
+                  }
+              }
+          },
+          "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+          "icon_background_color": "#4B96F3",
+          "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shoppingcart_pinlet",
+          "name": "Żabka",
+          "opening_hours": {
+              "open_now": true
+          },
+          "photos": [
+              {
+                  "height": 3024,
+                  "html_attributions": [
+                      "<a href=\"https://maps.google.com/maps/contrib/102458480840820395092\">Katarzyna Sma</a>"
+                  ],
+                  "photo_reference": "AUjq9jlTdGnY_IoXpcPUpVCD2E4MiH9zNNMePx28Z4rnbX3onaXGDadlJEO46gVMY2_KImIfMwPR6Rbsw-BM3VUkeIp3qKmV7g4c3qwQX47PLBelVPu_gCITIuxkDrtyk1dkBKjBTXRgYMb2-dbIRPcr4MCROFGKIEM0U-ar3wyPebSo1CTR",
+                  "width": 4032
+              }
+          ],
+          "place_id": "ChIJX1LLENLKG0cRaRjpQrPV930",
+          "plus_code": {
+              "compound_code": "QCCW+H8 Łódź, Polska",
+              "global_code": "9F3XQCCW+H8"
+          },
+          "rating": 4,
+          "reference": "ChIJX1LLENLKG0cRaRjpQrPV930",
+          "scope": "GOOGLE",
+          "types": [
+              "grocery_or_supermarket",
+              "liquor_store",
+              "cafe",
+              "store",
+              "restaurant",
+              "food",
+              "point_of_interest",
+              "establishment"
+          ],
+          "user_ratings_total": 127,
+          "vicinity": "Stefana Żeromskiego 22, Łódź"
+      },
+      {
+          "business_status": "OPERATIONAL",
+          "geometry": {
+              "location": {
+                  "lat": 51.7916774,
+                  "lng": 19.4500323
+              },
+              "viewport": {
+                  "northeast": {
+                      "lat": 51.7928593802915,
+                      "lng": 19.4508097802915
+                  },
+                  "southwest": {
+                      "lat": 51.7901614197085,
+                      "lng": 19.4481118197085
+                  }
+              }
+          },
+          "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+          "icon_background_color": "#FF9E67",
+          "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+          "name": "Restauracja Dwa Światy - Bałuty",
+          "opening_hours": {
+              "open_now": true
+          },
+          "photos": [
+              {
+                  "height": 533,
+                  "html_attributions": [
+                      "<a href=\"https://maps.google.com/maps/contrib/110187355326309153834\">Restauracja Dwa Światy - Bałuty</a>"
+                  ],
+                  "photo_reference": "AUjq9jnHPKgH9c5OxXF5Lz7qgHmz1GvBruNUDrTMqwRe3yXb-XRK6mmc8V9t4I6LHGchY-m4EB3_nbnklpD1U8hrnz3O6HgT8WFg7cnG_BN25piWtuzV--l8w28X7IGp5qRuQgFlq-oy7OtTYNHzhUoN1kHpusCvsRfddSXiDY7NRVrTsjt9",
+                  "width": 800
+              }
+          ],
+          "place_id": "ChIJ4eCww-vKG0cRyS-7_8_Kz1s",
+          "plus_code": {
+              "compound_code": "QFR2+M2 Łódź, Polska",
+              "global_code": "9F3XQFR2+M2"
+          },
+          "price_level": 2,
+          "rating": 4.3,
+          "reference": "ChIJ4eCww-vKG0cRyS-7_8_Kz1s",
+          "scope": "GOOGLE",
+          "types": [
+              "restaurant",
+              "food",
+              "point_of_interest",
+              "establishment"
+          ],
+          "user_ratings_total": 636,
+          "vicinity": "Zgierska 69, Łódź"
+      },
+      {
+          "business_status": "OPERATIONAL",
+          "geometry": {
+              "location": {
+                  "lat": 51.7663671,
+                  "lng": 19.453888
+              },
+              "viewport": {
+                  "northeast": {
+                      "lat": 51.76772228029149,
+                      "lng": 19.4553140802915
+                  },
+                  "southwest": {
+                      "lat": 51.76502431970849,
+                      "lng": 19.45261611970849
+                  }
+              }
+          },
+          "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+          "icon_background_color": "#FF9E67",
+          "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+          "name": "Spatif",
+          "opening_hours": {
+              "open_now": true
+          },
+          "photos": [
+              {
+                  "height": 912,
+                  "html_attributions": [
+                      "<a href=\"https://maps.google.com/maps/contrib/114065350121233740005\">Spatif</a>"
+                  ],
+                  "photo_reference": "AUjq9jmqI72y7Hzsr3nUZN3O9GMJmS411mGvnGFCJ0Ww820y5xBwjVKKzaqSia0G2uGXR2Buk0mdqVg76VeOTJqrfOreMv4LUbHhzOk6o4E-sLyh11t4c91M9Fg-4kRqEMrd0gLxKQDEyGqOibGQTaQa4hf_ll_bU8lw65rfqq8zjaYa3-ee",
+                  "width": 684
+              }
+          ],
+          "place_id": "ChIJYVU0IdXKG0cRCu2d1STLEvM",
+          "plus_code": {
+              "compound_code": "QF83+GH Łódź, Polska",
+              "global_code": "9F3XQF83+GH"
+          },
+          "price_level": 2,
+          "rating": 3.9,
+          "reference": "ChIJYVU0IdXKG0cRCu2d1STLEvM",
+          "scope": "GOOGLE",
+          "types": [
+              "restaurant",
+              "food",
+              "point_of_interest",
+              "establishment"
+          ],
+          "user_ratings_total": 119,
+          "vicinity": "aleja Tadeusza Kościuszki 33/35, Łódź"
+      },
+      {
+          "business_status": "OPERATIONAL",
+          "geometry": {
+              "location": {
+                  "lat": 51.7632338,
+                  "lng": 19.4579961
+              },
+              "viewport": {
+                  "northeast": {
+                      "lat": 51.7641403802915,
+                      "lng": 19.45917803029151
+                  },
+                  "southwest": {
+                      "lat": 51.7614424197085,
+                      "lng": 19.4564800697085
+                  }
+              }
+          },
+          "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+          "icon_background_color": "#FF9E67",
+          "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+          "name": "Restauracja McDonald's",
+          "opening_hours": {
+              "open_now": true
+          },
+          "photos": [
+              {
+                  "height": 3024,
+                  "html_attributions": [
+                      "<a href=\"https://maps.google.com/maps/contrib/112776715313379139349\">Restauracja McDonald&#39;s</a>"
+                  ],
+                  "photo_reference": "AUjq9jk4vK4Fk7mTJy5VYd3AbR4J4W0WadRlo03hixz-OX5gJOFINYN0Hm7vyKuYV8qLTpedD8dVDMXpygdC4BXwum9amBXoKUpbweCTrBuoQf-fLVkHxkiEayTHOEFZepdpS7FdPASqFPJseixJ8P2eAqzuXz85pKyjTQX3t5r_9iri1cFK",
+                  "width": 4032
+              }
+          ],
+          "place_id": "ChIJhVfaFtU0GkcRUK0e3V7aD30",
+          "plus_code": {
+              "compound_code": "QF75+75 Łódź, Polska",
+              "global_code": "9F3XQF75+75"
+          },
+          "price_level": 2,
+          "rating": 4.1,
+          "reference": "ChIJhVfaFtU0GkcRUK0e3V7aD30",
+          "scope": "GOOGLE",
+          "types": [
+              "restaurant",
+              "food",
+              "point_of_interest",
+              "establishment"
+          ],
+          "user_ratings_total": 4146,
+          "vicinity": "Piotrkowska 116, Łódź"
+      },
+      {
+          "business_status": "CLOSED_TEMPORARILY",
+          "geometry": {
+              "location": {
+                  "lat": 51.7689776,
+                  "lng": 19.4580476
+              },
+              "viewport": {
+                  "northeast": {
+                      "lat": 51.77026723029149,
+                      "lng": 19.45940888029151
+                  },
+                  "southwest": {
+                      "lat": 51.7675692697085,
+                      "lng": 19.4567109197085
+                  }
+              }
+          },
+          "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+          "icon_background_color": "#FF9E67",
+          "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+          "name": "Varoska",
+          "permanently_closed": true,
+          "photos": [
+              {
+                  "height": 2160,
+                  "html_attributions": [
+                      "<a href=\"https://maps.google.com/maps/contrib/107614396647215106691\">Bartłomiej Borkowski</a>"
+                  ],
+                  "photo_reference": "AUjq9jkrADnkJXBbAjLvW3_i50MbV-TuDRJI7Lb3aSEfrzPL_UtCuPha_nhrOXetgoz64DrpNMpNHkjQxuM1RcpbxdfHZQ_iT4f_ug19svVDYR8I_A0jPzk_puWctKrudTrsv_PtzcWCI0rBApIINLtsEl4uZQie6cUn6XYZ-x33dfoISdZ0",
+                  "width": 3840
+              }
+          ],
+          "place_id": "ChIJk8tT7NXKG0cRmRg3l3MQ4nQ",
+          "plus_code": {
+              "compound_code": "QF95+H6 Łódź, Polska",
+              "global_code": "9F3XQF95+H6"
+          },
+          "price_level": 2,
+          "rating": 4.4,
+          "reference": "ChIJk8tT7NXKG0cRmRg3l3MQ4nQ",
+          "scope": "GOOGLE",
+          "types": [
+              "restaurant",
+              "food",
+              "point_of_interest",
+              "establishment"
+          ],
+          "user_ratings_total": 470,
+          "vicinity": "Generała Romualda Traugutta 4, Łódź"
+      },
+      {
+          "business_status": "OPERATIONAL",
+          "geometry": {
+              "location": {
+                  "lat": 51.7575666,
+                  "lng": 19.4502417
+              },
+              "viewport": {
+                  "northeast": {
+                      "lat": 51.7589221802915,
+                      "lng": 19.4516725802915
+                  },
+                  "southwest": {
+                      "lat": 51.7562242197085,
+                      "lng": 19.4489746197085
+                  }
+              }
+          },
+          "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+          "icon_background_color": "#FF9E67",
+          "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+          "name": "Restauracja McDonald's",
+          "opening_hours": {
+              "open_now": true
+          },
+          "photos": [
+              {
+                  "height": 3648,
+                  "html_attributions": [
+                      "<a href=\"https://maps.google.com/maps/contrib/114075753070250755330\">Restauracja McDonald&#39;s</a>"
+                  ],
+                  "photo_reference": "AUjq9jkUrU6dAvATvxfJkTASWFAkDKXJFLW_qJMJDhydQra_T0oEef5Q_Hr-l80fqwTGz4ulpdexP3Sk92hafWtcUJ2SEmWnjeaMFCkJXRFIws1dIDFrPMVXqxmAYJtWU20DkwTHX_iKQ0qFubc7P3QhlYNptaoLj8dJrTTDtn_-3XJugRcU",
+                  "width": 5472
+              }
+          ],
+          "place_id": "ChIJY5kLLig1GkcRcYTexT6oek0",
+          "plus_code": {
+              "compound_code": "QF52+23 Łódź, Polska",
+              "global_code": "9F3XQF52+23"
+          },
+          "price_level": 2,
+          "rating": 4,
+          "reference": "ChIJY5kLLig1GkcRcYTexT6oek0",
+          "scope": "GOOGLE",
+          "types": [
+              "restaurant",
+              "food",
+              "point_of_interest",
+              "establishment"
+          ],
+          "user_ratings_total": 4588,
+          "vicinity": "aleja Adama Mickiewicza 5, Łódź"
+      },
+      {
+          "business_status": "CLOSED_TEMPORARILY",
+          "geometry": {
+              "location": {
+                  "lat": 51.75760529999999,
+                  "lng": 19.4546421
+              },
+              "viewport": {
+                  "northeast": {
+                      "lat": 51.7589462302915,
+                      "lng": 19.45588233029151
+                  },
+                  "southwest": {
+                      "lat": 51.7562482697085,
+                      "lng": 19.4531843697085
+                  }
+              }
+          },
+          "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+          "icon_background_color": "#FF9E67",
+          "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+          "name": "Vis a Vis. Restauracja",
+          "permanently_closed": true,
+          "place_id": "ChIJXRjQUNY0GkcRhSla4AbvHiE",
+          "plus_code": {
+              "compound_code": "QF53+2V Łódź, Polska",
+              "global_code": "9F3XQF53+2V"
+          },
+          "rating": 3.5,
+          "reference": "ChIJXRjQUNY0GkcRhSla4AbvHiE",
+          "scope": "GOOGLE",
+          "types": [
+              "restaurant",
+              "food",
+              "point_of_interest",
+              "establishment"
+          ],
+          "user_ratings_total": 2,
+          "vicinity": "Stefana Żeromskiego 94, Łódź"
+      }
+  ],
+  "status": "OK"
+}
